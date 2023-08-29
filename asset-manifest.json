@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/landing-mark0/static/css/main.ef1d9db2.css",
+    "main.js": "/landing-mark0/static/js/main.342b0be0.js",
+    "static/media/04.jpg": "/landing-mark0/static/media/04.9fdc965908dda0b0cb6b.jpg",
+    "static/media/01.jpg": "/landing-mark0/static/media/01.564b11c3904afa65a456.jpg",
+    "static/media/02.jpg": "/landing-mark0/static/media/02.ba9d124e1523cffaf766.jpg",
+    "static/media/03.jpg": "/landing-mark0/static/media/03.0a83685b5b02ec75827f.jpg",
+    "static/media/logo.svg": "/landing-mark0/static/media/logo.80ae960bed120766a30c18d63e16a904.svg",
+    "static/media/shopping-bag.svg": "/landing-mark0/static/media/shopping-bag.d4f14fdb759da799a753.svg",
+    "index.html": "/landing-mark0/index.html",
+    "main.ef1d9db2.css.map": "/landing-mark0/static/css/main.ef1d9db2.css.map",
+    "main.342b0be0.js.map": "/landing-mark0/static/js/main.342b0be0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef1d9db2.css",
+    "static/js/main.342b0be0.js"
+  ]
+}
